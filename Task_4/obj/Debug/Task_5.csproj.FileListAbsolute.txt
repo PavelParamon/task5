@@ -1,0 +1,9 @@
+C:\Users\Pavel\Desktop\Task_5\Task_4\bin\Debug\Task_4.exe
+C:\Users\Pavel\Desktop\Task_5\Task_4\bin\Debug\Task_4.pdb
+C:\Users\Pavel\Desktop\Task_5\Task_4\obj\Debug\Task_5.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\Task_5\Task_4\obj\Debug\Task_4.MainForm.resources
+C:\Users\Pavel\Desktop\Task_5\Task_4\obj\Debug\Task_4.Properties.Resources.resources
+C:\Users\Pavel\Desktop\Task_5\Task_4\obj\Debug\Task_5.csproj.GenerateResource.cache
+C:\Users\Pavel\Desktop\Task_5\Task_4\obj\Debug\Task_5.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Task_5\Task_4\obj\Debug\Task_4.exe
+C:\Users\Pavel\Desktop\Task_5\Task_4\obj\Debug\Task_4.pdb
